@@ -147,7 +147,7 @@
 24.1 Apps in the Kids Category must include a privacy policy and must comply with applicable children's privacy statutes
 24.2 Apps in the Kids Category may not include behavioral advertising (e.g. the advertiser may not serve ads based on the user's activity within the App), and any contextual ads presented in the App must be appropriate for kids
 24.3 Apps in the Kids Category must get parental permission or use a parental gate before allowing the user to link out of the app or engage in commerce
-24.4 Apps in the Kids Category must be made specifically for kids ages 5 and under, ages 6-8, or ages 9-11 25. Extensions
+24.4 Apps in the Kids Category must be made specifically for kids ages 5 and under, ages 6-8, or ages 9-11
 25.1 Apps hosting extensions must comply with the App Extension Programming Guide
 25.2 Apps hosting extensions must provide some functionality (help screens, additional settings) or they will be rejected
 25.3 Apps hosting extensions that include marketing, advertising, or in-app purchases in their extension view will be rejected
